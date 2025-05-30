@@ -1,4 +1,4 @@
-function(){
+window.onload = function(){
 	const target = document.getElementById("level");
 	let current = target;
 	let count = 0;
